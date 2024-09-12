@@ -1,0 +1,17 @@
+from	to	value
+erm(Q)	pcp	4
+erm(Q)	tcp	69
+erm(Q)	Both	6
+erm(Q)	No	27
+lnu(P)	pcp	0
+lnu(P)	tcp	15
+lnu(P)	Both	4
+lnu(P)	No	8
+tetA(P)	pcp	8
+tetA(P)	tcp	89
+tetA(P)	Both	20
+tetA(P)	No	35
+tetB(P)	pcp	3
+tetB(P)	tcp	105
+tetB(P)	Both	21
+tetB(P)	No	26
